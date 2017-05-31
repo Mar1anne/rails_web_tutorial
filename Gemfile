@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-
+# test comment
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.8'
